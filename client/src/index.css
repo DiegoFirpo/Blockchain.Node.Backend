@@ -28,3 +28,21 @@ body {
     padding: 5%;
     margin: 2%;
 }
+
+.Transaction {
+    padding: 5%;
+}
+
+.ConductTransaction, .TransactionPool {
+    margin: 10%;
+}
+
+.Buttons {
+    margin-top: 15px;
+}
+
+a,
+a:hover {
+    color: #e666;
+    text-decoration: underline;
+}
